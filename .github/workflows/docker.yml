@@ -38,5 +38,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            Michereto/practica_7.1:latest
+            michereto/practica_7.1:latest
             ghcr.io/Michereto/practica_7.1:latest
